@@ -1,2 +1,2 @@
-# rrdtool_testing
-# rrdtool_testing
+# RRDtoool testing
+## This dicrectory was created only for testing purposes
