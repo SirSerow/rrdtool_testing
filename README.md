@@ -1,2 +1,2 @@
-# RRDtoool testing
-## This dicrectory was created only for testing purposes
+## RRDtoool testing
+Following dicrectory was created only for testing purposes
